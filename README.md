@@ -1,3 +1,5 @@
+This is ofloveandhate's fork of [tristanpenman's repo demo-ing visitor in C++](tristanpenman/visitor-pattern) 
+
 # Visitor Pattern
 
 _Notes for a micro-talk given at the [Melbourne C++ Meetup](https://www.meetup.com/MelbourneCpp)._
